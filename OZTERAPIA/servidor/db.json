@@ -1,0 +1,34 @@
+{
+
+  "usuario": [{
+
+    "id": 1,
+    "name": "maycon cypriano batestin",
+    "sobrenome": "Cypriano Batestin",
+    "telefone": 11960564808,
+    "email": "maycon@gamil.com",
+    "formacao": "Graduado em quimica"
+  },
+  {
+
+  "id": 2,
+  "name": "maycon cypriano batestin",
+  "sobrenome": "Cypriano Batestin",
+  "telefone": 11960564808,
+  "email": "maycon@gamil.com",
+  "formacao": "Graduado em quimica"
+  },
+
+  {
+
+    "id": 3,
+    "name": "maycon cypriano batestin",
+    "sobrenome": "Cypriano Batestin",
+    "telefone": 11960564808,
+    "email": "maycon@gamil.com",
+    "formacao": "Graduado em quimica"
+    }
+
+
+  ]
+}
